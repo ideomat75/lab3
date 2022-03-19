@@ -4,7 +4,7 @@ project(formatter_ex)
 
 set(CMAKE_CXX_STANDARD 14)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
-set(CMAKE_CURRENT_SOURCE_DIR /home/inspired/T_lb3)
+set(CMAKE_CURRENT_SOURCE_DIR /home/krutoylenya/syperlenya/lab3)
  
 add_library(formatter_ex STATIC ${CMAKE_CURRENT_SOURCE_DIR}/formatter_ex_lib/formatter_ex.cpp)
 
